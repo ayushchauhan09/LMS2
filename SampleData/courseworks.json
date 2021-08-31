@@ -2,26 +2,26 @@
 	{
 		"title": "Homework1",
 		"description": "1st Homework",
-		"dueDate": "2018-05-19"
+		"dueDate": "2021-08-30"
 	},
 	{
 		"title": "Homework2",
 		"description": "2nd Homework",
-		"dueDate": "2018-05-20"
+		"dueDate": "2021-08-31"
 	},
 	{
 		"title": "Homework3",
 		"description": "3rd Homework",
-		"dueDate": "2018-05-21"
+		"dueDate": "2021-09-01"
 	},
 	{
 		"title": "Homework4",
 		"description": "4th Homework",
-		"dueDate": "2018-05-22"
+		"dueDate": "2021-09-02"
 	},
 	{
 		"title": "Final Project",
 		"description": "Final Project",
-		"dueDate": "2018-05-23"
+		"dueDate": "2021-09-03"
 	}
 ]
